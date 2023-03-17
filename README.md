@@ -21,4 +21,4 @@ There are GPT-4 generated proof attempts of those theorems in the wonderfully na
 
 You can also try your own theorems. I don't expect it to do well on anything that isn't already in the training data as-is. Just have fun though.
 
-Please feel free to contribute if you add your own fun proof-related GPT-4 things here, or make this nicer or whatever.
+Please feel free to contribute if you add your own fun proof-related GPT-4 things here, or make this nicer or whatever. Or have it interact with the proof checker during conversation! Or add other backends! Like open source chatbots that'd be cool. Why not? The world is your rooster.
