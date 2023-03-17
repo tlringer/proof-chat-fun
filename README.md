@@ -5,3 +5,11 @@ This doesn't actually prove anything yet, it just tells a GPT-4-generated joke a
     python proofjoke.py
 
 Where you replace the `...` with your GPT-4 key.
+
+To use a really quickly written Coq proof bot with zero guarantees to do anything reasonable at all:
+
+    python proof.py
+
+Enjoy!
+
+Please feel free to contribute if you add your own fun proof-related GPT-4 things here, or make this nicer or whatever.
